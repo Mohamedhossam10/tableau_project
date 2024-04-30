@@ -1,2 +1,2 @@
 # tableau_project
- 
+The Superstore Sales Dashboard is designed to provide insights into the sales performance of a superstore over the years. It visualizes trends in sales, customer behavior, product performance, and top-performing countries in terms of sales revenue. The dashboard aims to assist stakeholders in understanding key metrics, identifying opportunities for growth, and making data-driven decisions to optimize sales strategies. 
